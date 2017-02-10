@@ -1,6 +1,7 @@
 # ProgressView
 
 View for showing progress, error, and empty views
+
 [![](https://jitpack.io/v/fisher3421/ProgressView.svg)](https://jitpack.io/#fisher3421/ProgressView)
 
 # Gradle Dependency
