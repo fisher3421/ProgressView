@@ -1,6 +1,6 @@
 # ProgressView
 
-View for showing progress, error, and empty views
+View for showing progress, error, and empty views. Based on [ViewFlipper](https://developer.android.com/reference/android/widget/ViewFlipper.html).
 
 [![](https://jitpack.io/v/fisher3421/ProgressView.svg)](https://jitpack.io/#fisher3421/ProgressView)
 
